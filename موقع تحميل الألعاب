@@ -1,0 +1,70 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://06758ae8-ec4a-4b60-9216-fe33fa741c89-00-28mf7oi9t5kkl.janeway.replit.dev/
+Subject: =?utf-8?Q?=D9=85=D9=88=D9=82=D8=B9=20=D8=AA=D8=AD=D9=85=D9=8A=D9=84=20=D8?=
+ =?utf-8?Q?=A7=D9=84=D8=A3=D9=84=D8=B9=D8=A7=D8=A8?=
+Date: Mon, 5 Feb 2024 19:02:46 +0100
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--wfUeb3pnjFN5bEeaH3S2Vb0ZZ3f3EPTB4G8kDaCYBp----"
+
+
+------MultipartBoundary--wfUeb3pnjFN5bEeaH3S2Vb0ZZ3f3EPTB4G8kDaCYBp----
+Content-Type: text/html
+Content-ID: <frame-0326D3C747AD04DB7079C5B67E433E55@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://06758ae8-ec4a-4b60-9216-fe33fa741c89-00-28mf7oi9t5kkl.janeway.replit.dev/
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>موقع تحميل الألعاب</title>
+    <link rel="stylesheet" href="https://06758ae8-ec4a-4b60-9216-fe33fa741c89-00-28mf7oi9t5kkl.janeway.replit.dev/styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>موقع تحميل الألعاب</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="https://06758ae8-ec4a-4b60-9216-fe33fa741c89-00-28mf7oi9t5kkl.janeway.replit.dev/#">الرئيسية</a></li>
+            <li><a href="https://06758ae8-ec4a-4b60-9216-fe33fa741c89-00-28mf7oi9t5kkl.janeway.replit.dev/#">الألعاب</a></li>
+            <li><a href="https://06758ae8-ec4a-4b60-9216-fe33fa741c89-00-28mf7oi9t5kkl.janeway.replit.dev/#">تحميل</a></li>
+            <li><a href="https://06758ae8-ec4a-4b60-9216-fe33fa741c89-00-28mf7oi9t5kkl.janeway.replit.dev/#">تواصل معنا</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>الألعاب المتاحة</h2>
+        <div class="game-card">
+            <img src="https://06758ae8-ec4a-4b60-9216-fe33fa741c89-00-28mf7oi9t5kkl.janeway.replit.dev/game1.jpg" alt="لعبة 1">
+            <h3>MINECRAFT</h3>
+            <p></p>
+            <a href="https://06758ae8-ec4a-4b60-9216-fe33fa741c89-00-28mf7oi9t5kkl.janeway.replit.dev/#">تحميل</a>
+        </div>
+
+        <div class="game-card">
+            <img src="https://06758ae8-ec4a-4b60-9216-fe33fa741c89-00-28mf7oi9t5kkl.janeway.replit.dev/game2.jpg" alt="لعبة 2">
+            <h3>اسم اللعبة 2</h3>
+            <p>وصف قصير للعبة 2.</p>
+            <a href="https://06758ae8-ec4a-4b60-9216-fe33fa741c89-00-28mf7oi9t5kkl.janeway.replit.dev/#">تحميل</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>جميع الحقوق محفوظة © 2024</p>
+    </footer>
+
+
+</body></html>
+------MultipartBoundary--wfUeb3pnjFN5bEeaH3S2Vb0ZZ3f3EPTB4G8kDaCYBp----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://06758ae8-ec4a-4b60-9216-fe33fa741c89-00-28mf7oi9t5kkl.janeway.replit.dev/styles.css
+
+@charset "utf-8";
+
+
+------MultipartBoundary--wfUeb3pnjFN5bEeaH3S2Vb0ZZ3f3EPTB4G8kDaCYBp------
